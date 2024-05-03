@@ -1,1 +1,1 @@
-# React + Vite + OpenAI ChatGPT
+# React + Vite + MongoDB + OpenAI ChatGPT
