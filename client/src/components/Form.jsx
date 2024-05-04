@@ -1,6 +1,5 @@
 // import form from '../form.css' 
 
-
 function Form({placeholder, newNote, setNewNote, notes, setNotes}){
     const handleNoteChange = (event) => setNewNote(event.target.value)
 
